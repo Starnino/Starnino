@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Starnino
 - 👀 I’m interested in Computer Vision, Machine Learning, SLAM, Neural Networks, Controls in Robotics, Human-Robot Interaction ..
+- check out my [projects](https://github.com/Starnino/projects)
