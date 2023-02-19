@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Starnino
-- 👀 I’m interested in Computer Vision, Machine Learning, Neural Networks, Controls in Robotics, Human-Robot Interaction ..
+- 👀 I’m interested in Computer Vision, Machine Learning, Deep Learning, Controls in Robotics, Human-Robot Interaction .. (mostly AI)
 - 🤖 Check out my [projects](https://github.com/Starnino/projects)
