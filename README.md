@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Starnino
-- 👀 I’m interested in Computer Vision, Machine Learning, Deep Learning, Controls in Robotics, Human-Robot Interaction .. (mostly AI)
-- 🤖 Check out my [projects](https://github.com/Starnino/projects)
+- 👋 Hi, I’m **@Starnino**  
+- 👀 I’m interested in **Generative AI, Computer Vision, Machine Learning, Deep Learning, Robotics, and Sports**  
+- 💼 Check out my [Curriculum Vitae](https://github.com/Starnino/cv)  
+- 🚀 Explore my [Projects](https://github.com/Starnino/projects)  
+- 🎓 See my [University Profile](https://github.com/university)  
