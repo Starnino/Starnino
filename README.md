@@ -2,4 +2,4 @@
 - 👀 I’m interested in **Generative AI, Computer Vision, Machine Learning, Deep Learning, Robotics, and Sports**  
 - 💼 Check out my [Curriculum Vitae](https://github.com/Starnino/cv)  
 - 🚀 Explore my [Projects](https://github.com/Starnino/projects)  
-- 🎓 See my [University Profile](https://github.com/university)  
+- 🎓 See my [University Profile](https://corsidilaurea.uniroma1.it/en/course/33514)  
